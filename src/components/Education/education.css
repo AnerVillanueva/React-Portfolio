@@ -1,3 +1,7 @@
+#education{
+    padding-top: 7rem;
+}
+
 .education__container{
     display:flex;
     gap: 1rem;

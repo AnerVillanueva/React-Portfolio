@@ -1,7 +1,12 @@
+#about{
+    padding-top: 7rem;
+}
+
 .about__container{
     display: grid;
     grid-template-columns: 35% 50%;
     gap: 15%;
+    padding-top: 1rem;
 }
 
 .about__me {

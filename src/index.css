@@ -44,9 +44,11 @@ body{
     line-height: 1.7;
     background-image: url(../src/assets/bg-texture-2.jpg);
     background-repeat: no-repeat;
-    background-size:cover;
+    background-size: cover;
     background-position: center;
     background-attachment: fixed;
+    background-blend-mode: hard-light;
+    background-blend-mode: luminosity;
 }
 
 /* === GENERAL STYLES === */
