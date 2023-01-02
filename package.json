@@ -2,7 +2,7 @@
   "name": "react-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://AnerVillanueva.github.io/React-Portfolio",
+  "homepage": "https://AnerVillanueva.github.io/React-Portfolio",
   "dependencies": {
     "@emailjs/browser": "^3.10.0",
     "@testing-library/jest-dom": "^5.16.5",
