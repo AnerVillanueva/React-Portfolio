@@ -27,7 +27,7 @@ const About = () => {
             <article className='about__card'>
               <FiUsers className='about__icon'/>
               <h5>Clients</h5>
-              <small>X clients</small>
+              <small>Tekniker</small>
             </article>
             <article className='about__card'>
               <VscFolderLibrary className='about__icon'/>
@@ -37,7 +37,7 @@ const About = () => {
           </div>
 
           <p>
-            Text Example Text Example Text Example Text Example Text Example Text Example Text Example Text Example Text Example Text Example Text Example Text Example Text Example Text Example Text Example Text Example
+            I am a graduate in Industrial Electronic Engineering and Automation. I have a huge interest in acquiring new knowledge about the world of modern technology. I am looking for a job that gives me useful experience and helps me improve my intellectual capacity for a better personal development for the future.
           </p>
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
 
