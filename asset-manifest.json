@@ -1,23 +1,19 @@
 {
   "files": {
     "main.css": "/React-Portfolio/static/css/main.1c96f9d5.css",
-    "main.js": "/React-Portfolio/static/js/main.2e6b8639.js",
+    "main.js": "/React-Portfolio/static/js/main.88fd0632.js",
+    "static/media/InterfazIndustria.pdf": "/React-Portfolio/static/media/InterfazIndustria.fa938fbbaf43ad9be199.pdf",
     "static/media/bg-texture-2.jpg": "/React-Portfolio/static/media/bg-texture-2.3974bbe19387ae74c54d.jpg",
+    "static/media/PortfolioInterfazIndustria.PNG": "/React-Portfolio/static/media/PortfolioInterfazIndustria.64ab2e4edadc77c55ee1.PNG",
     "static/media/me1.png": "/React-Portfolio/static/media/me1.b434b04d97067d107d52.png",
-    "static/media/portfolio5.png": "/React-Portfolio/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
     "static/media/me2.jpg": "/React-Portfolio/static/media/me2.36675bb5a8334d30009d.jpg",
     "static/media/Aner_Villanueva_CV.pdf": "/React-Portfolio/static/media/Aner_Villanueva_CV.655649bf900de4967c07.pdf",
-    "static/media/portfolio2.jpg": "/React-Portfolio/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
-    "static/media/portfolio6.jpg": "/React-Portfolio/static/media/portfolio6.72d1107e313049cf15a7.jpg",
-    "static/media/portfolio1.jpg": "/React-Portfolio/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
-    "static/media/portfolio3.jpg": "/React-Portfolio/static/media/portfolio3.cbab42559fe73e73906f.jpg",
-    "static/media/portfolio4.jpg": "/React-Portfolio/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
     "index.html": "/React-Portfolio/index.html",
     "main.1c96f9d5.css.map": "/React-Portfolio/static/css/main.1c96f9d5.css.map",
-    "main.2e6b8639.js.map": "/React-Portfolio/static/js/main.2e6b8639.js.map"
+    "main.88fd0632.js.map": "/React-Portfolio/static/js/main.88fd0632.js.map"
   },
   "entrypoints": [
     "static/css/main.1c96f9d5.css",
-    "static/js/main.2e6b8639.js"
+    "static/js/main.88fd0632.js"
   ]
 }
