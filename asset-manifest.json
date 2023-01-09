@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.1c96f9d5.css",
-    "main.js": "/React-Portfolio/static/js/main.8fc132cf.js",
+    "main.css": "/React-Portfolio/static/css/main.6d5546a3.css",
+    "main.js": "/React-Portfolio/static/js/main.828894fd.js",
     "static/media/InterfazIndustria.pdf": "/React-Portfolio/static/media/InterfazIndustria.fa938fbbaf43ad9be199.pdf",
     "static/media/bg-texture-2.jpg": "/React-Portfolio/static/media/bg-texture-2.3974bbe19387ae74c54d.jpg",
     "static/media/PortfolioInterfazIndustria.PNG": "/React-Portfolio/static/media/PortfolioInterfazIndustria.64ab2e4edadc77c55ee1.PNG",
@@ -9,11 +9,11 @@
     "static/media/me2.jpg": "/React-Portfolio/static/media/me2.36675bb5a8334d30009d.jpg",
     "static/media/Aner_Villanueva_CV.pdf": "/React-Portfolio/static/media/Aner_Villanueva_CV.655649bf900de4967c07.pdf",
     "index.html": "/React-Portfolio/index.html",
-    "main.1c96f9d5.css.map": "/React-Portfolio/static/css/main.1c96f9d5.css.map",
-    "main.8fc132cf.js.map": "/React-Portfolio/static/js/main.8fc132cf.js.map"
+    "main.6d5546a3.css.map": "/React-Portfolio/static/css/main.6d5546a3.css.map",
+    "main.828894fd.js.map": "/React-Portfolio/static/js/main.828894fd.js.map"
   },
   "entrypoints": [
-    "static/css/main.1c96f9d5.css",
-    "static/js/main.8fc132cf.js"
+    "static/css/main.6d5546a3.css",
+    "static/js/main.828894fd.js"
   ]
 }
